@@ -22,5 +22,3 @@ exports.palindrome = function(word) {
     
     return palindrome;  
 };
-
-console.log(exports.palindrome(434));
